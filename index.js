@@ -9,7 +9,7 @@ const nodeSchedule = require('node-schedule');
 const chromePaths = require('chrome-paths');
 
 const fs = require('fs');
-const moment = require('moment');
+const moment = require('moment');       
 const chalk = require('chalk');
 const delay = require('delay');
 const readlineSync = require('readline-sync');
